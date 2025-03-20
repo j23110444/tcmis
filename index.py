@@ -16,7 +16,7 @@ def index():
     homepage += "<a href=http://www1.pu.edu.tw/~a1132001/>奕寬簡介網頁</a><br>"
 
 
-    return "hello 葉奕寬"homepage
+    return "hello 葉奕寬"+homepage
 
 @app.route("/mis")
 def course():
