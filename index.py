@@ -12,7 +12,7 @@ def index():
     homepage += "<a href=/today>顯示日期時間</a><br>"
     homepage += "<a href=/welcome?nick=使用者>傳送使用者暱稱</a><br>"
     homepage += "<a href=/account>網頁表單傳值</a><br>"
-    
+    homepage += "<a href=rwd>奕寬簡介網頁(rwd版本)</a><br>"
     homepage += "<a href=http://www1.pu.edu.tw/~a1132001/>奕寬簡介網頁</a><br>"
 
 
